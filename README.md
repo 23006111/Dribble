@@ -2,7 +2,7 @@
 
 
 ## Name:Ramya P
-## Reg No:212223230168
+## Register No:212223230168
 ## Date:13-11-24
 
 ## AIM:
